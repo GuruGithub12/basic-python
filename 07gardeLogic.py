@@ -15,5 +15,8 @@ def GarbageLogic(int_score):
 
 
 GarbageLogic(99.99)
-
-
+GarbageLogic(80.00)
+GarbageLogic(60.00)
+GarbageLogic(45.00)
+GarbageLogic(30.00)
+GarbageLogic(40.00)
