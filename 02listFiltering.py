@@ -12,6 +12,3 @@ for element in my_List:
       print("even number:" ,element)
    else:
         print("odd number:" ,element)
-      
-      
-      

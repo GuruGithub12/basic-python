@@ -29,3 +29,5 @@ for i in prices:
     total = total + i
 print("Total price:", total)
 
+
+
