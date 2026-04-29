@@ -28,6 +28,7 @@ total =0
 for i in prices:
     total = total + i
 print("Total price:", total)
+print("Guru")
 
 
 
