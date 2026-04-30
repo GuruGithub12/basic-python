@@ -31,3 +31,6 @@ else:
 
 for x in [1]:
          print(x)  
+
+
+print ("om Nama shivaya")
